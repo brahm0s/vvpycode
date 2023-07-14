@@ -1,0 +1,2 @@
+1. Write notes:
+ouputbuyerid : how are we getiing the value for it
